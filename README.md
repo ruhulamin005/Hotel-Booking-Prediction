@@ -6,7 +6,7 @@ Hotel Booking Prediction based on hotel booking dataset
 #### Project Link: https://github.com/ruhulamin005/Hotel-Booking-Prediction
 
 
-## Prtoblem Statement
+## Problem Statement
 #### 1. Where Do the Guests come from?
 #### 2. How Much do guest pay for a night?
 #### 3. How does the price per night vary over the year?
